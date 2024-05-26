@@ -91,7 +91,7 @@ function App() {
         <Route path='/admin/transaction' element={<Transactions />} />
         <Route path='/admin/specialites' element={<Specialites />} />
 
-        <Route path='*' element={<NotFound/>}/>
+        <Route path='*' element={<Home/>}/>
       </Routes>
     </Router >
   );
