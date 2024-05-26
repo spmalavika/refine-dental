@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/refine-dental/static/css/main.93d11c31.css",
-    "main.js": "/refine-dental/static/js/main.c917096e.js",
+    "main.js": "/refine-dental/static/js/main.168b1309.js",
     "static/media/baby.png": "/refine-dental/static/media/baby.928305bb3baf9a5ab172.png",
     "static/media/chair.png": "/refine-dental/static/media/chair.f9bf62b32af354944acd.png",
     "static/media/banner.jpg": "/refine-dental/static/media/banner.d7417439c41033f97b05.jpg",
@@ -25,10 +25,10 @@
     "static/media/blogIcon.png": "/refine-dental/static/media/blogIcon.c322f577cf7372c45a5f.png",
     "index.html": "/refine-dental/index.html",
     "main.93d11c31.css.map": "/refine-dental/static/css/main.93d11c31.css.map",
-    "main.c917096e.js.map": "/refine-dental/static/js/main.c917096e.js.map"
+    "main.168b1309.js.map": "/refine-dental/static/js/main.168b1309.js.map"
   },
   "entrypoints": [
     "static/css/main.93d11c31.css",
-    "static/js/main.c917096e.js"
+    "static/js/main.168b1309.js"
   ]
 }
